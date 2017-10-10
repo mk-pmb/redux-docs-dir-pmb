@@ -1,0 +1,35 @@
+{ "name": "redux-docs-dir-pmb",
+  "version": "0.1.1710102022",
+  "description": "A copy of the docs/ and logo/ directories from the react redux repo.",
+  "keywords": [ "react", "redux", "docs" ],
+
+  "author": "Dan Abramov <dan.abramov@me.com> (https://github.com/gaearon)",
+  "authors": [
+    "Dan Abramov <dan.abramov@me.com> (https://github.com/gaearon)",
+    "Andrew Clark <acdlite@me.com> (https://github.com/acdlite)"
+  ],
+  "contributors": [
+    "Andrew Clark <acdlite@me.com> (https://github.com/acdlite)",
+    "M.K. (https://github.com/mk-pmb)"
+  ],
+
+  "homepage": "https://github.com/mk-pmb/redux-docs-dir-pmb/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/redux-docs-dir-pmb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/redux-docs-dir-pmb/issues"
+  },
+
+  "private": false, "license": "MIT",
+
+  "main": "files-list.json",
+  "directories": { "doc": "docs" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
